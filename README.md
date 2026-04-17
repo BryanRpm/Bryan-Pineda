@@ -8,4 +8,4 @@
 ## ¿Quien Soy?
 Una persona apasionado por la tecnología
 :)
-### Gracias por visitae mi sitio
+### Gracias por visitae mi sitio.
